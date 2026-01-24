@@ -25,7 +25,7 @@ from telegram.ext import (
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 DATABASE_URL = os.environ.get("DATABASE_URL")
 
-CHANNEL_INVITE_LINK = "https://t.me/+1mW3DLmVYUQ3MWRl"
+CHANNEL_INVITE_LINK = "https://t.me/+MhpHrmrjql45MDU1"
 CHANNEL_ID = os.environ.get("CHANNEL_ID", "").strip()
 
 ADMIN_IDS = {7728424218, 6798566345}
